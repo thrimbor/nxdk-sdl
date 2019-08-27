@@ -110,7 +110,7 @@
 #endif
 
 /* Enable the dummy audio driver (src/audio/dummy/\*.c) */
-#define SDL_AUDIO_DISABLED  1
+#define SDL_AUDIO_DRIVER_XBOX  1
 
 /* Enable the Xbox joystick driver (src/joystick/xbox/\*.c) */
 #define SDL_JOYSTICK_XBOX   1
